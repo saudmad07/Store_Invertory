@@ -1,0 +1,5 @@
+add apples 115 1.39 03-22-2018
+add orange 165 2.33 03-19-2018
+add banana 113 1.29 03-11-2018
+add watermelon 200 1.23 02-28-2019
+
